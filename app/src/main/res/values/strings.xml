@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HttpExample</string>
+    <string name="bttoken">获取Token</string>
+    <string name="bttoken_gettoken">正在获取Token</string>
+    <string name="hint_stuno">请输入学号</string>
+    <string name="hint_txtsearch">请输入内容</string>
+    <string name="btconfirm">确定</string>
+    <string name="btcancel">取消</string>
+    <string name="loadingtxt">加载中...</string>
+</resources>
